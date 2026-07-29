@@ -102,41 +102,6 @@ I'm a Mathematics and Computing undergrad at NIT Durgapur (CGPA 9.19/10.0) with 
 
 ---
 
-## ✦ Positions of Responsibility
-
-### Senior Coordinator | Computer Science and Engineering Student's Society, NIT Durgapur
-*September 2025 – Present*
-
-* Organized and hosted a large-scale, campus-wide Hackathon, managing end-to-end event execution.
-* Conducted a Resume Building workshop designed to help students effectively prepare for upcoming placement drives.
-* Hosted a "Know Your Department" orientation event, successfully introducing incoming juniors to the faculty, academic structure, and essential resources.
-
-<br />
-
-### Elected Department Representative | Student Gymkhana, NIT Durgapur
-*August 2025 – May 2026*
-
-* Elected by peers to represent the Mathematics and Computing department, acting as the main bridge between students and the college administration.
-* Worked closely with council and faculty to resolve academic concerns and help run campus initiatives.
-
-> `Consistency & Goal-Orientation` `Effective Technical Communication` `Analytical Problem-Solving`
-
----
-
-## ✦ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Branch Upgrade** | Secured a branch upgrade to Mathematics and Computing by maintaining a CGPA of 9.5. |
-| **700+ DSA Problems Solved** | Solved 700+ Data Structures & Algorithms problems across major coding platforms. |
-| **Smart India Hackathon** | Qualified the institute-level internal screening round (SIH). |
-
-</div>
-
----
-
 ## ✦ Coding Profiles
 
 <p align="center">

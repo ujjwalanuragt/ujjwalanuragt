@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Systems%2C%20Structures%20%26%20Solutions&fontSize=42&fontAlignY=35&desc=B.Tech%20Undergrad%20%7C%20DSA%20%26%20Systems%20Programming&descAlignY=60&descSize=18&fontColor=ffffff&descColor=dcdcdc&animation=fadeIn" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Systems%2C%20Structures%20%26%20Solutions&fontSize=42&fontAlignY=35&desc=B.Tech%20Undergrad%20%7C%20DSA%20%26%20Systems%20Programming&descAlignY=60&descSize=18&fontColor=ffffff&descColor=dcdcdc&animation=fadeIn" alt="Header Banner" width="100%" />
 
   <br />
 
@@ -110,6 +110,15 @@ I'm a Mathematics and Computing undergrad at NIT Durgapur (CGPA 9.19/10.0) with 
   <a href="https://codolio.com/profile/ujjwal436"><img src="https://img.shields.io/badge/Codolio-Portfolio_Tracker-9400D3?style=for-the-badge" alt="Codolio" /></a>
 </p>
 
+<br />
+
+<p align="center">
+  <a href="https://leetcode.com/u/ujjwal_4/"><img src="https://assets.leetcode.com/static_assets/others/50.gif" width="85" alt="LeetCode Badge 1" /></a>
+  <a href="https://leetcode.com/u/ujjwal_4/"><img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="85" alt="LeetCode Badge 2" /></a>
+  <a href="https://leetcode.com/u/ujjwal_4/"><img src="https://assets.leetcode.com/static_assets/others/100.gif" width="85" alt="LeetCode Badge 3" /></a>
+  <a href="https://leetcode.com/u/ujjwal_4/"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="85" alt="LeetCode Badge 4" /></a>
+</p>
+
 ---
 
 ## ✦ GitHub Analytics
@@ -167,4 +176,3 @@ exploring:
 open_to:
   - Internship Opportunities
   - Open Source Collaboration
-```

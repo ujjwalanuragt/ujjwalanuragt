@@ -124,11 +124,13 @@ I'm a Mathematics and Computing undergrad at NIT Durgapur (CGPA 9.19/10.0) with 
 ## ✦ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalanuragt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&icon_color=9400D3&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalanuragt&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=ujjwalanuragt&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=9400D3&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalanuragt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&v=1" alt="Top Languages" width="60%" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ujjwalanuragt&hide_progress=true&langs_count=4&theme=midnight-purple">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ujjwalanuragt&hide_progress=true&langs_count=4&theme=midnight-purple" alt="Top Languages" width="60%" />
+  </a>
 </p>
 
 ---

@@ -128,14 +128,6 @@ I'm a Mathematics and Computing undergrad at NIT Durgapur (CGPA 9.19/10.0) with 
 
 ---
 
-## ✦ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjwalanuragt&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## ✦ Contribution Activity
 
 <p align="center">

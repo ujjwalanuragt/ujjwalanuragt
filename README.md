@@ -147,11 +147,11 @@ I'm a Mathematics and Computing undergrad at NIT Durgapur (CGPA 9.19/10.0) with 
 ## ✦ Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalanuragt&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ujjwalanuragt&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=9400D3&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjwalanuragt&theme=radical" alt="Top Languages" width="60%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujjwalanuragt/ujjwalanuragt/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujjwalanuragt/ujjwalanuragt/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ujjwalanuragt/ujjwalanuragt/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---

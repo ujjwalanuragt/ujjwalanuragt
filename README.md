@@ -14,7 +14,7 @@
 
   <a href="https://www.linkedin.com/in/ujjwal-anurag-77b065376/"><img src="https://img.shields.io/badge/LinkedIn-Profile-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ujjwal.anurag436@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ujjwalanuragt"><img src="https://img.shields.io/badge/GitHub-Profile-9400D3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://ujjwal-portfolio-new.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-9400D3?style=for-the-badge&logo=globe&logoColor=white" alt="GitHub" /></a>
 
   <br />
   <br />
@@ -28,7 +28,7 @@
 
 ## ✦ About
 
-I'm a Mathematics and Computing undergrad at NIT Durgapur (CGPA 9.19/10.0) with a strong pull toward systems-level programming and problem solving. I like understanding how things work under the hood — I've built a UNIX shell and a regex engine from scratch in C/C++ rather than leaning on library shortcuts — and I balance that with consistent competitive programming practice (700+ DSA problems solved). Outside of coursework, I coordinate large-scale events for my department's student society and represent my batch on the department council.
+I'm a Mathematics and Computing undergraduate at NIT Durgapur (CGPA 9.19/10.0) with a strong interest in systems programming and software engineering. I enjoy building software from the ground up to understand how it works internally, from implementing a UNIX shell to developing a custom Redis client in C++. Alongside systems programming, I have also solved 700+ DSA problems across major coding platforms. I coordinate large-scale events for my department's student society and represent my batch on the department council.
 
 **Open To:** Internship Opportunities • Open Source Collaboration
 
@@ -89,15 +89,16 @@ I'm a Mathematics and Computing undergrad at NIT Durgapur (CGPA 9.19/10.0) with 
 <br />
 
 <details>
-  <summary><b>Custom Regular Expression Engine</b></summary>
+  <summary><b>Custom Redis Client</b></summary>
   <br />
-  A complete regex matching engine engineered from scratch to evaluate and match input strings, with no external regex libraries involved.
+
+  A lightweight Redis client built from scratch that communicates directly with a Redis server using raw TCP sockets and the Redis Serialization Protocol (RESP).
 
   | Tech Stack | Repository |
   | :--- | :--- |
-  | C++ | [View Code](https://github.com/ujjwalanuragt) |
+  | C++, TCP Sockets, RESP | [View Code](https://github.com/ujjwalanuragt/Custom_Redis_Client) |
 
-  Implemented a custom lexer and a recursive descent parser to accurately tokenize regex strings and generate an Abstract Syntax Tree (AST). The matching engine supports advanced regex features including special atoms (`\d`, `\w`, `\s`), character classes, quantifiers (`*`, `+`, `?`), and grouping.
+  Established low-level TCP connections using Berkeley sockets for direct communication with Redis. Implemented a custom recursive RESP parser to serialize and deserialize requests without relying on third-party networking libraries, and built an interactive command-line interface for seamless command execution.
 </details>
 
 ---

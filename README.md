@@ -12,9 +12,12 @@
 
   <br />
 
+  <a href="https://ujjwal-portfolio-new.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Website-6C2BD9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://www.linkedin.com/in/ujjwal-anurag-77b065376/"><img src="https://img.shields.io/badge/LinkedIn-Profile-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ujjwal.anurag436@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ujjwal-portfolio-new.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-9400D3?style=for-the-badge&logo=globe&logoColor=white" alt="GitHub" /></a>
+  
+
 
   <br />
   <br />

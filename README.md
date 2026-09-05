@@ -22,9 +22,6 @@
   <br />
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=ujjwalanuragt&label=Profile%20Views&color=4B0082&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ujjwalanuragt?label=Followers&style=for-the-badge&color=8A2BE2" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ujjwalanuragt?label=Stars&style=for-the-badge&color=9400D3" alt="Stars" />
 </div>
 
 ---

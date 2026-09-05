@@ -7,7 +7,7 @@
 
   <br />
 
-  <img src="https://img.shields.io/badge/B.Tech_Mathematics_%26_Computing-CGPA_9.19-4B0082?style=for-the-badge" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/B.Tech_Mathematics_%26_Computing-CGPA_9.24-4B0082?style=for-the-badge" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/NIT_Durgapur-India-8A2BE2?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
 
   <br />
@@ -28,7 +28,7 @@
 
 ## ✦ About
 
-I'm a Mathematics and Computing undergraduate at NIT Durgapur (CGPA 9.19/10.0) with a strong interest in systems programming and software engineering. I enjoy building software from the ground up to understand how it works internally, from implementing a UNIX shell to developing a custom Redis client in C++. Alongside systems programming, I have also solved 700+ DSA problems across major coding platforms. I coordinate large-scale events for my department's student society and represent my batch on the department council.
+I'm a Mathematics and Computing undergraduate at NIT Durgapur (CGPA 9.24/10.0) with a strong interest in systems programming and software engineering. I enjoy building software from the ground up to understand how it works internally, from implementing a UNIX shell to developing a custom Redis client in C++. Alongside systems programming, I have also solved 700+ DSA problems across major coding platforms. I coordinate large-scale events for my department's student society and represent my batch on the department council.
 
 **Open To:** Internship Opportunities • Open Source Collaboration
 
